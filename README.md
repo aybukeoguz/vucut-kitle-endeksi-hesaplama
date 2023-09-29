@@ -17,7 +17,7 @@ Uygulamayı çalıştırın: 'flutter run'.
 
 ## Ekran Görüntüsü
 
-<img src="https://github.com/aybukeoguz/vucut-kitle-endeksi-hesaplama/assets/80958621/20578335-56fe-4030-9944-9e3a009f4a2d" width="200">
+<img src="https://github.com/aybukeoguz/vucut-kitle-endeksi-hesaplama/assets/80958621/20578335-56fe-4030-9944-9e3a009f4a2d" width="250">
 
 <img src="https://github.com/aybukeoguz/vucut-kitle-endeksi-hesaplama/assets/80958621/610e7b2c-cc08-49f4-9106-ef1f66365609" width="300">
 
