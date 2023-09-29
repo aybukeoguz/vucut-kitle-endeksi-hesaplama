@@ -23,6 +23,6 @@ Bu uygulama Flutter ile geliştirilmiştir ve kullanıcıların Vücut Kitle End
 
 
 ## Kullanım
-Açılış ekranında cinsiyetinizi seçiniz kilo ve boy değerlerinizi girin.
-"Hesapla" butonuna basarak BMI değerinizi alın.
-Sonuç ekranında BMI değeriniz ve durum değerlendirmenizi görüntüleyin.
+1. Açılış ekranında cinsiyetinizi seçiniz kilo ve boy değerlerinizi girin.
+2. "Hesapla" butonuna basarak BMI değerinizi alın.
+3. Sonuç ekranında BMI değeriniz ve durum değerlendirmenizi görüntüleyin.
